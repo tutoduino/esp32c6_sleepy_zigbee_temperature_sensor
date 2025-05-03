@@ -1,0 +1,1 @@
+# esp32c6_sleepy_zigbee_temperature_sensor
